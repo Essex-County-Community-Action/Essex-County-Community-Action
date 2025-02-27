@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Essex County, Department of Citizen Services, Division of Community Action | Data Driven Decision Making Organizational Enhancement Program (3DM - OEP)
 
 NJ 504 - Newark / Essex Continuum of Care
