@@ -1,10 +1,10 @@
-# 💫 About Us:
+# About Us:
 Essex County, Department of Citizen Services, Division of Community Action | Data Driven Decision Making Organizational Enhancement Program (3DM - OEP)
 
 NJ 504 - Newark / Essex Continuum of Care
 
 Analytical Insights to End Homelessness in Essex County, New Jersey
-# 📊 Current Projects:
+# Current Projects:
  + Exploratory Data Analysis
  + Geospatial Analysis
  + Regression Analysis
@@ -13,7 +13,7 @@ Analytical Insights to End Homelessness in Essex County, New Jersey
  + Principal Component Analysis (PCA) 
     - Single Value Decomposition (SVD)
     - Probabilistic PCA
-# 💻 Tech Stack:
+# Tech Stack:
 ### Languages:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ### Developer Tools:
